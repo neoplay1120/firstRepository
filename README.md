@@ -1,16 +1,20 @@
-개인프로필
-이름 혹은 닉네임
-이메일 주소
-내 블로그
-=======================
-허연
-----------------------
-내 홈페이지 : [홈페이지][homepage]
 
-[homepage] 
-1. 이건 줄 바꾸기
-2. 깃 허브는 버전관리하는 전세계 국룰
+### Hi there 👋🏾  welcome to my Github! I like to write in Python and I'm exploring Cloud Tech 🐍 ☁️
 
-1234
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
 
-깨달음
+
+<p align="center">
+<a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+<a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+</p>
+
+<p align="center">
+Check out my repos ⬇️  
+</p>
+
+![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
+
+⭐️ From [ari-hacks](https://github.com/ari-hacks)
